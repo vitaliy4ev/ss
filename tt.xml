@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_02" class="java.beans.XMLDecoder">
+ <object class="Base">
+  <void property="a">
+   <int>2</int>
+  </void>
+  <void property="b">
+   <int>23</int>
+  </void>
+ </object>
+</java>
